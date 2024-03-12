@@ -1,5 +1,7 @@
 # Here is the git repo for calmcode assignment 3. 
 Files added for Calmcode assignment:-
+Ipynb files for both Modules listed below.
+
 1. Scikit-learn/ML: partial_fit
  - Partial_fit in scikit-learn is a method used for training machine learning models incrementally, which means you can train your model on a large dataset in smaller parts rather than all at once.
 
